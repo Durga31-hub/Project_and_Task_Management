@@ -1,0 +1,7 @@
+Django>=4.2,<5
+djangorestframework
+mysqlclient      # OR use PyMySQL if you can't build mysqlclient
+django-background-tasks
+django-cors-headers
+drf-yasg         # optional for OpenAPI
+python-dotenv    # optional to manage secrets in .env
